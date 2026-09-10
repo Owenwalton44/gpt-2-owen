@@ -1,4 +1,4 @@
-# I was here
+#WE was here
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.training import HParams
